@@ -35,10 +35,8 @@
                         </template>
                     </template>
                 </el-menu>
-                
                 <i class="el-icon-menu hidden-sm-and-up"></i>
             </el-col>
-
 
         </el-row>
 
