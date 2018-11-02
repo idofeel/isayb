@@ -7,7 +7,6 @@
                     <img src="../../assets/images/logo.png" alt="">
                 </div>
             </el-col>
-
             <el-col :xs="12" :sm="18" :md="20">
                 <el-menu :default-active="activeIndex" class="el-menu-demo hidden-xs-only " mode="horizontal" @select="handleSelect" text-color="#333" active-text-color="#4390ee">
                     <template v-for="(v,k) in nav">
